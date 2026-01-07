@@ -6,7 +6,7 @@ This project builds a **multimodal regression framework** to predict real estate
 ---
 
 ## Dataset
-**Source:** Kaggle – House Sales Prediction Dataset  
+**Source:** House Sales Prediction Dataset  
 
 **Target Variable:**
 - `price`
